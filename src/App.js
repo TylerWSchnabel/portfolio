@@ -2,13 +2,9 @@ import './App.css';
 import Instagram from './components/files/instagram.png'
 import {Cloudinary} from "@cloudinary/url-gen";
 import React from 'react'
-// Import the responsive plugin
-import {AdvancedImage, responsive, lazyload, accessibility, placeholder} from '@cloudinary/react';
-import { useState } from 'react';
-import ReactDOM from 'react-dom/client';
+import {AdvancedImage, responsive, placeholder} from '@cloudinary/react';
 import 'semantic-ui-css/semantic.min.css';
 import emailjs from 'emailjs-com';
-import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import Swal from 'sweetalert2';
 
 
@@ -17,8 +13,6 @@ function App() {
   const SERVICE_ID = "service_h6nh12n";
   const TEMPLATE_ID = "template_kkz8kxq";
   const USER_ID = "LvLVsY1hGjlNreMK8";
-
-  const [inputs, setInputs] = useState({});
 
   const handleOnSubmit = (e) => {
     e.preventDefault();
