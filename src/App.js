@@ -121,7 +121,7 @@ function App() {
           <div className='project-cont'>
             <div className='project-info'>
               <h3 className='project-title'>Photo Hunt</h3>
-              <p className='project-desc'>Search the photos to see if you can find the three hidden characters per level and land you name at the top of the leaderboard. Made using HTML, CSS, Javascript, React, and Firebase on the backend. </p>
+              <p className='project-desc'>Search the photos to see if you can find the three hidden characters per level and put your name at the top of the leaderboard. Made using HTML, CSS, Javascript, React, and Firebase on the backend. </p>
               <div className='project-links'>
                 <a href='https://github.com/TylerWSchnabel/photo-find' target="_blank" rel="noreferrer"><button className='project-btn'>Code</button></a>
                 <a href='https://tylerwschnabel.github.io/photo-find/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
@@ -143,7 +143,7 @@ function App() {
           <div className='project-cont'>
             <div className='project-info'>
               <h3 className='project-title'>Library</h3>
-              <p className='project-desc'>Keep a list of booke you have read or would like to read with this digital library. Made using HTML, CSS, Javascript, React, and Firebase for the backend.</p>
+              <p className='project-desc'>Keep a list of books you have read or would like to read with this digital library. Made using HTML, CSS, Javascript, React, and Firebase for the backend.</p>
               <div className='project-links'>
                 <a href='https://github.com/TylerWSchnabel/my-library' target="_blank" rel="noreferrer"><button className='project-btn'>Code</button></a>
                 <a href='https://tylerwschnabel.github.io/my-library/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
@@ -154,7 +154,7 @@ function App() {
           <div className='project-cont'>
             <div className='project-info'>
               <h3 className='project-title'>Battleship</h3>
-              <p className='project-desc'>Take to the seas and see if you can sinnk your opponents ships before thye sink yours with this battle ship game. Made using HTML, CSS, and Javascript</p>
+              <p className='project-desc'>Take to the high seas and see if you can sink your opponents ships before they sink yours with this battleship game. Made using HTML, CSS, and Javascript</p>
               <div className='project-links'>
                 <a href='https://github.com/TylerWSchnabel/battleship' target="_blank" rel="noreferrer"><button className='project-btn'>Code</button></a>
                 <a href='https://tylerwschnabel.github.io/battleship/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
@@ -198,7 +198,7 @@ function App() {
           <div className='project-cont'>
             <div className='project-info'>
               <h3 className='project-title'>Restaurant Page</h3>
-              <p className='project-desc'> A restaurant webpage for the Belaying Pin, the fictious restaurant from one of my favorite movies Inherent Vice. Made using HTML, CSS, and Javascript</p>
+              <p className='project-desc'> A restaurant webpage for the Belaying Pin, the fictious restaurant from one of my favorite movies 'Inherent Vice'. Made using HTML, CSS, and Javascript</p>
               <div className='project-links'>
                 <a href='https://github.com/TylerWSchnabel/restaurant' target="_blank" rel="noreferrer"><button className='project-btn'>Code</button></a>
                 <a href='https://tylerwschnabel.github.io/restaurant/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
