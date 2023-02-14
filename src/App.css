@@ -99,6 +99,7 @@ a:visited{
 }
 #about-id{
   z-index: 0;
+  height: fit-content;
 }
 .about-cont{
   margin-top: 5vh;
@@ -287,8 +288,7 @@ a:visited{
 }
 
 
-
-@media (max-width: 600px) {
+@media (max-width: 900px) {
 
 
   
@@ -349,7 +349,8 @@ a:visited{
     grid-template-columns: 1fr;
   }
   .bio{
-    line-height: 1.2;
+    line-height: 1.5;
+    font-size: 1.2rem;
     width: 90%;
   }
   .about-quals{

@@ -127,7 +127,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/photo-find/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={photoHunt} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/photo-find/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={photoHunt} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -138,7 +138,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/weather_app/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={weather} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/weather_app/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={weather} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -149,7 +149,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/my-library/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={library} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/my-library/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={library} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -160,7 +160,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/battleship/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={battleshipImg} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/battleship/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={battleshipImg} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -171,7 +171,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/shopping-cart/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={shopping} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/shopping-cart/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={shopping} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -182,7 +182,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/matching-game/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={match} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/matching-game/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={match} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -193,7 +193,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/roshambo/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={roshambo} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/roshambo/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={roshambo} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -201,10 +201,10 @@ function App() {
               <p className='project-desc'> A restaurant webpage for the Belaying Pin, the fictious restaurant from one of my favorite movies 'Inherent Vice'. Made using HTML, CSS, and Javascript</p>
               <div className='project-links'>
                 <a href='https://github.com/TylerWSchnabel/restaurant' target="_blank" rel="noreferrer"><button className='project-btn'>Code</button></a>
-                <a href='https://tylerwschnabel.github.io/restaurant/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
+                <a href='https://tylerwschnabel.github.io/restuarant/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={belaying} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/restuarant/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={belaying} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -215,7 +215,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io/etch-a-sketch/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={etch} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io/etch-a-sketch/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={etch} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
           <div className='project-cont'>
             <div className='project-info'>
@@ -226,7 +226,7 @@ function App() {
                 <a href='https://tylerwschnabel.github.io//tic-tac-toe/' target="_blank" rel="noreferrer"><button className="project-btn">Live</button></a>
               </div>
             </div>
-            <AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={tictac} plugins={[responsive(), placeholder()]} ></AdvancedImage>
+            <a href='https://tylerwschnabel.github.io//tic-tac-toe/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={tictac} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
         </div>
         <div className='section' id='contact-id'>
