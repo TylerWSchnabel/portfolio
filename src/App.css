@@ -89,6 +89,7 @@ a:visited{
 #about-id {
   height: 100vh;
   display: grid;
+  padding-top: 10vh;
 }
 .section-title{
   align-self: center;
