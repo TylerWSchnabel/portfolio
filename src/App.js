@@ -151,7 +151,7 @@ function App() {
             </div>
             <a href='https://tylerwschnabel.github.io/my-library/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={library} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
           </div>
-          <div className='project-cont'>
+          {/* <div className='project-cont'>
             <div className='project-info'>
               <h3 className='project-title'>Battleship</h3>
               <p className='project-desc'>Take to the high seas and see if you can sink your opponents ships before they sink yours with this battleship game. Made using HTML, CSS, and Javascript</p>
@@ -161,7 +161,7 @@ function App() {
               </div>
             </div>
             <a href='https://tylerwschnabel.github.io/battleship/' target="_blank" rel="noreferrer"><AdvancedImage className='project-img' style={{maxWidth: '100%'}} cldImg={battleshipImg} plugins={[responsive(), placeholder()]} ></AdvancedImage></a>
-          </div>
+          </div> */}
           <div className='project-cont'>
             <div className='project-info'>
               <h3 className='project-title'>Retail Shop</h3>
